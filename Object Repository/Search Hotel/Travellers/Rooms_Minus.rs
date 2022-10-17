@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Rooms_Minus</name>
+   <tag></tag>
+   <elementGuidId>7120be6f-7c8d-4c77-9982-fdece2b02336</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='hotels-search']/div/div/div[3]/div/div/div/div/div/div/div/div[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.roomDec > i.la.la-minus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>23ab0053-a517-4c17-b549-8b6e40fed5ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-minus</value>
+      <webElementGuid>39f1be09-597f-4d87-944f-3d015e1c5478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hotels-search&quot;)/div[@class=&quot;main_search contact-form-action&quot;]/div[@class=&quot;row g-1&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;input-box&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;dropdown dropdown-contain&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-wrap&quot;]/div[@class=&quot;dropdown-item&quot;]/div[@class=&quot;roomBtn d-flex align-items-center justify-content-between&quot;]/div[@class=&quot;qtyBtn d-flex align-items-center&quot;]/div[@class=&quot;roomDec&quot;]/i[@class=&quot;la la-minus&quot;]</value>
+      <webElementGuid>15cd540d-0119-4587-87f5-e513a3a6d4cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='hotels-search']/div/div/div[3]/div/div/div/div/div/div/div/div[2]/i</value>
+      <webElementGuid>01dc9f9a-ead7-4880-8662-090ac6ca8dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/i</value>
+      <webElementGuid>1eda52b2-9717-482b-9b11-fb667cdf76c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

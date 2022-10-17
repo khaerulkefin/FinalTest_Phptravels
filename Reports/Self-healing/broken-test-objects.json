@@ -18,6 +18,15 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Khaerul/Pagination/total_Record_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Verify/Verify City Name/Suggest_Message",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//ul[@id\u003d\u0027select2-hotels_city-results\u0027]/li",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Verify/Verify City Name/Suggest_Message_XPATH.png"
     }
   ]
 }

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Adults_Plus</name>
+   <tag></tag>
+   <elementGuidId>eb7da7cc-78c4-4524-ac72-b4ec39a6d76b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='hotels-search']/div/div/div[3]/div/div/div/div/div[2]/div/div/div[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.qty-box.d-flex.align-items-center.justify-content-between > div.qtyBtn.d-flex.align-items-center > div.qtyInc > i.la.la-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>51f364f0-7adc-4427-adce-c39abf14550e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-plus</value>
+      <webElementGuid>3da2fb1c-0b07-40ec-8f21-50f7e64fa5e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hotels-search&quot;)/div[@class=&quot;main_search contact-form-action&quot;]/div[@class=&quot;row g-1&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;input-box&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;dropdown dropdown-contain&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-wrap&quot;]/div[@class=&quot;dropdown-item&quot;]/div[@class=&quot;qty-box d-flex align-items-center justify-content-between&quot;]/div[@class=&quot;qtyBtn d-flex align-items-center&quot;]/div[@class=&quot;qtyInc&quot;]/i[@class=&quot;la la-plus&quot;]</value>
+      <webElementGuid>bb987298-19c6-473e-a52f-4172b0e5d69d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='hotels-search']/div/div/div[3]/div/div/div/div/div[2]/div/div/div[2]/i</value>
+      <webElementGuid>20af73b5-e5ce-456f-b0a5-b39178d16d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/i</value>
+      <webElementGuid>5a6a1ccc-df6f-44fc-8605-07c5a07812a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

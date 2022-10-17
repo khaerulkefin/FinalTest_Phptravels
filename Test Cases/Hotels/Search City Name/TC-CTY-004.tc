@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menginputkan nama kota yang tidak
+ valid lebih dari 3 huruf</description>
+   <name>TC-CTY-004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1708b2a-9dfc-48b7-990b-7a9f865c8705</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b33a291f-d831-4d08-bfa9-a5fb3fa0b24d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Katalon'</defaultValue>
+      <description></description>
+      <id>b33a291f-d831-4d08-bfa9-a5fb3fa0b24d</id>
+      <masked>false</masked>
+      <name>input_CityName</name>
+   </variable>
+</TestCaseEntity>

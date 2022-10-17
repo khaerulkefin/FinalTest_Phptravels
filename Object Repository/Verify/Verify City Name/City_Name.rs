@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>City_Name</name>
+   <tag></tag>
+   <elementGuidId>9ead7cc0-2174-4499-9516-dc79f81b7f6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='oasis beach tower']/div/div[2]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.card-meta</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c5ad1e68-3702-48ed-b9ba-f307751e0ea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-meta</value>
+      <webElementGuid>13f52d70-d4d9-4d0f-bf13-1a42d7b6727f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> dubai</value>
+      <webElementGuid>6c1093f2-35d7-4a1b-ac36-6e1782aa2345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/section[2]/div/div/div[2]/section/ul/li/div/div[2]/div/div[1]/p</value>
+      <webElementGuid>9e4f44ac-e91d-4545-b9b3-b826396396ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='oasis beach tower']/div/div[2]/div/div/p</value>
+      <webElementGuid>b588b859-a1db-40d7-b32e-99511a7a0033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JA Oasis Beach Tower - Dubai - United Arab Emirate'])[1]/following::p[1]</value>
+      <webElementGuid>1972b605-ee91-46c3-97d3-75f7b8817f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oasis Beach Tower'])[1]/following::p[1]</value>
+      <webElementGuid>95dd3467-9275-4a67-8e5a-d2c7be6ee902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start From'])[1]/preceding::p[1]</value>
+      <webElementGuid>9e60dd5d-87e5-4b5d-a4ec-7c2a12800c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>e40710c0-c5f9-43a5-a949-563aa44c6c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' dubai' or . = ' dubai')]</value>
+      <webElementGuid>bff376e6-d68f-45da-9c83-45d90bcd2d8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

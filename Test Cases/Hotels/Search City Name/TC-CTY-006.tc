@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menginputkan nama kota yang valid 
+lebih dari 3 huruf dan memilih nama 
+kota yang tidak memiliki hotel</description>
+   <name>TC-CTY-006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46ecd2be-a43f-47b8-bac6-e1e14f1040d3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0d678c5-fd35-4d72-a9cc-ae10ee883cb9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jakarta'</defaultValue>
+      <description></description>
+      <id>a0d678c5-fd35-4d72-a9cc-ae10ee883cb9</id>
+      <masked>false</masked>
+      <name>input_CityName</name>
+   </variable>
+</TestCaseEntity>

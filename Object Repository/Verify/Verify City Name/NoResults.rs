@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NoResults</name>
+   <tag></tag>
+   <elementGuidId>a8a57296-318e-487a-8e3f-3893c48d0580</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='fadein']/div[7]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.mt-2.w-50.h-50.shadow-sm.p-3.mb-5.bg-white.rounded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>32c34a0a-1e50-410c-819c-09814326e53c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-2 w-50 h-50 shadow-sm p-3 mb-5 bg-white rounded</value>
+      <webElementGuid>53c78b0f-f212-482b-92fe-9d2a9c6c13e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://phptravels.net/app/themes/default/assets/img/no_img.webp</value>
+      <webElementGuid>ef406b23-dbc2-4335-b4ab-6953a8d0bfb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>no results</value>
+      <webElementGuid>49770c48-7ce2-4dfc-b3b1-f93f173af882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@id=&quot;fadein&quot;]/div[@class=&quot;container text-center&quot;]/img[@class=&quot;mt-2 w-50 h-50 shadow-sm p-3 mb-5 bg-white rounded&quot;]</value>
+      <webElementGuid>48876633-ff0a-4272-8352-74d2f7ae3de7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fadein']/div[7]/img</value>
+      <webElementGuid>8567db68-f992-4960-94f7-4d1a8b4e5f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='no results']</value>
+      <webElementGuid>a7adb47c-367c-475f-b441-6fbc93b808c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/img</value>
+      <webElementGuid>cc04c7bb-66f9-472b-96d6-c04deb5b92f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://phptravels.net/app/themes/default/assets/img/no_img.webp' and @alt = 'no results']</value>
+      <webElementGuid>0ce940a5-6d8b-44e8-a955-d71992473cab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

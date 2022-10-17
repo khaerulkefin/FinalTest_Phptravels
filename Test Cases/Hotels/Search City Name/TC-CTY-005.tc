@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menginputkan nama kota yang valid 
+lebih dari 3 huruf tanpa memilih kota 
+yang dituju</description>
+   <name>TC-CTY-005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb328d50-b032-4f80-90a7-c95fde474e50</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73b049d4-1594-407e-818b-129aac4efd02</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Dubai'</defaultValue>
+      <description></description>
+      <id>73b049d4-1594-407e-818b-129aac4efd02</id>
+      <masked>false</masked>
+      <name>input_CityName</name>
+   </variable>
+</TestCaseEntity>

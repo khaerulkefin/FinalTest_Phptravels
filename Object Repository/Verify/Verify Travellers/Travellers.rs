@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Travellers</name>
+   <tag></tag>
+   <elementGuidId>07d4e519-6e93-4589-989b-d700ceff9455</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='fadein']/section/div/div/div/div/div/div/div/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>22c65579-b855-44e7-a3a0-dddbfafa7a3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 Adults 0 Childs 1 Rooms</value>
+      <webElementGuid>50a8f39f-7cf8-4a5b-8384-1c217086a1a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@id=&quot;fadein&quot;]/section[@class=&quot;breadcrumb-area bread-bg-7&quot;]/div[@class=&quot;breadcrumb-wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-lg-8&quot;]/div[@class=&quot;breadcrumb-content&quot;]/div[@class=&quot;section-heading&quot;]/div[@class=&quot;left-side-info rtl-align-right&quot;]/div[1]/p[2]</value>
+      <webElementGuid>43755dba-d62f-491f-8944-ae2f60ded36c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fadein']/section/div/div/div/div/div/div/div/div/p[2]</value>
+      <webElementGuid>81a77618-f57b-41c5-ad8d-628a19ef238b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Hotels in dubai'])[1]/following::p[2]</value>
+      <webElementGuid>988c9338-eaab-4c15-9591-c1fc0e40ef63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Login'])[1]/following::p[2]</value>
+      <webElementGuid>5b5c77f3-9cf7-4220-9ff5-560992b949ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify Search'])[1]/preceding::p[1]</value>
+      <webElementGuid>b868d4dd-b5ad-42bc-b824-fd1b0d3d961c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Adults']/parent::*</value>
+      <webElementGuid>6cdb259c-a8c8-4f58-a958-013050db387c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>766bb19c-d5fd-4073-8f5f-c4e44a71253d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '2 Adults 0 Childs 1 Rooms' or . = '2 Adults 0 Childs 1 Rooms')]</value>
+      <webElementGuid>d45029f4-84b7-49c2-8fa6-9589eb1aa878</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

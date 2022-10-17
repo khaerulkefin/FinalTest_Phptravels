@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menginputkan nama kota kurang dari
+ 3 huruf</description>
+   <name>TC-CTY-003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71d6f45f-4c6e-445d-a9d2-2b169e036004</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>601ba450-f43e-4c5b-b077-501ee274f579</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Li'</defaultValue>
+      <description></description>
+      <id>601ba450-f43e-4c5b-b077-501ee274f579</id>
+      <masked>false</masked>
+      <name>input_CityName</name>
+   </variable>
+</TestCaseEntity>

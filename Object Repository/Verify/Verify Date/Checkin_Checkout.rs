@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Checkin_Checkout</name>
+   <tag></tag>
+   <elementGuidId>e5345960-0b03-4275-9638-dc08f4a9e15a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='fadein']/section/div/div/div/div/div/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>288e9d10-90d9-4726-bdc7-b62755e25d62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 Nights ( 20-10-2022 - 21-10-2022 )</value>
+      <webElementGuid>a57bd6db-b573-4216-ab47-94d6c72ac79f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@id=&quot;fadein&quot;]/section[@class=&quot;breadcrumb-area bread-bg-7&quot;]/div[@class=&quot;breadcrumb-wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-lg-8&quot;]/div[@class=&quot;breadcrumb-content&quot;]/div[@class=&quot;section-heading&quot;]/div[@class=&quot;left-side-info rtl-align-right&quot;]/div[1]/p[1]</value>
+      <webElementGuid>a0bc19ab-e873-4eb2-beb7-e90b446abee7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fadein']/section/div/div/div/div/div/div/div/div/p</value>
+      <webElementGuid>d2c65167-6a1a-4906-8c2e-c51a007c9e59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Hotels in dubai'])[1]/following::p[1]</value>
+      <webElementGuid>5eab1c84-e329-468e-a89b-406c05d4eb5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Login'])[1]/following::p[1]</value>
+      <webElementGuid>09e80991-f151-49ff-8ab0-ea5d3c9638f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify Search'])[1]/preceding::p[2]</value>
+      <webElementGuid>e6b711e1-231a-49e7-9862-41e1f78a038b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='( 20-10-2022 - 21-10-2022 )']/parent::*</value>
+      <webElementGuid>0cf4dbe3-352c-4a66-b975-49ea136cb950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>fc6f74de-c28b-4ec2-aba5-d1aa9c3b1c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '1 Nights ( 20-10-2022 - 21-10-2022 )' or . = '1 Nights ( 20-10-2022 - 21-10-2022 )')]</value>
+      <webElementGuid>f8a5a334-ff06-45e7-bb08-764eb83ea13b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
