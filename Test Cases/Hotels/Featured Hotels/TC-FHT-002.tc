@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Menginputkan data travellers dengan
- jumlah 0</description>
-   <name>TC-TVL-002</name>
+   <description>Menguji button next card berfungsi</description>
+   <name>TC-FHT-002</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>cb00b6ba-2ee8-44e1-b203-8218e84985b4</testCaseGuid>
+   <testCaseGuid>842fc00d-11e2-4e41-bd18-29d5cfed34e1</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>380f4adb-6964-4ccc-8e7e-3ee35c916174</variableId>
+      <variableId>fd76f196-86eb-4868-8f48-779534b10c96</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'Dubai'</defaultValue>
       <description></description>
-      <id>380f4adb-6964-4ccc-8e7e-3ee35c916174</id>
+      <id>fd76f196-86eb-4868-8f48-779534b10c96</id>
       <masked>false</masked>
       <name>input_CityName</name>
    </variable>

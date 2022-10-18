@@ -17,6 +17,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.WebElement
 
 WebUI.openBrowser('https://phptravels.net/')
 WebUI.maximizeWindow()
@@ -32,25 +33,24 @@ WebUI.click(findTestObject('Object Repository/Search Hotel/City Name/Option_City
 
 //Menginputkan data traveller
 WebUI.click(findTestObject('Object Repository/Search Hotel/Travellers/Select_Travellers'))
-WebUI.setText(findTestObject('Object Repository/Search Hotel/Travellers/Number_Room'), '0')
+
+//Menambah data adults dan child
 WebUI.setText(findTestObject('Object Repository/Search Hotel/Travellers/Number_Adults'), '0')
 WebUI.setText(findTestObject('Object Repository/Search Hotel/Travellers/Number_Childs'), '0')
+for (int i = 0; i < 13; i++) {
+	WebUI.click(findTestObject('Object Repository/Search Hotel/Travellers/Adults_Plus'))
+	WebUI.click(findTestObject('Object Repository/Search Hotel/Travellers/Childs_Plus'))
+}
 WebUI.selectOptionByValue(findTestObject('Object Repository/Search Hotel/Travellers/Select_Nationality'), 'ID', false)
 
-WebUI.click(findTestObject('Object Repository/Search Hotel/Button/Button_Search'))
+//Menghitung jumlah total child age
+List<WebElement> childAge = WebUI.findWebElements(findTestObject('Object Repository/Verify/Verify Travellers/ChildAge_Total'), 10)
+println childAge.size()
 
-//Verifikasi data travellers
-travellerCount = WebUI.getText(findTestObject('Object Repository/Verify/Verify Travellers/Travellers'))
-adultsTotal = WebUI.getAttribute(findTestObject('Object Repository/Search Hotel/Travellers/Number_Adults'), 'value')
-childsTotal = WebUI.getAttribute(findTestObject('Object Repository/Search Hotel/Travellers/Number_Childs'), 'value')
-roomsTotal = WebUI.getAttribute(findTestObject('Object Repository/Search Hotel/Travellers/Number_Room'), 'value')
-
-if (!travellerCount.contains('0 Rooms')) {
-	KeywordUtil.markPassed('Data rooms lebih dari 0')
+if (childAge.size() < 12) {
+	WebUI.click(findTestObject('Object Repository/Search Hotel/Button/Button_Search'))
 } else {
-	KeywordUtil.markFailed('Data tidak boleh 0')
+	KeywordUtil.markFailed('Child age lebih dari 12')
 }
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Verify/Verify City Name/NoResults'), 10)
 
 WebUI.closeBrowser()

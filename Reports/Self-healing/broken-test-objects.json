@@ -55,6 +55,15 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Verify/Verify Travellers/Travellers_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Featured Hotels/card_Hotels",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Hyatt Regency Perth\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Featured Hotels/card_Hotels_neighbor.png"
     }
   ]
 }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Apakah card hotel sesuai dengan 
+hotel yang dituju</description>
+   <name>TC-FHT-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbc61e2e-4be6-422f-b94b-28118d3394b3</testCaseGuid>
+</TestCaseEntity>

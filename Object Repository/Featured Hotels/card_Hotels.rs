@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>card_Hotels</name>
+   <tag></tag>
+   <elementGuidId>107c2743-ac50-4e6b-8a2d-d093393521d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='fadein']/section[2]/div/div[2]/div/div/div/div/div/div[7]/div/div[2]/h6/a/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>5d839349-0b71-42be-806e-a6dcd185faae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hyatt Regency Perth</value>
+      <webElementGuid>30d6d8ac-6792-4c9c-b0d2-335cba11d906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/section[2]/div/div[2]/div/div/div/div[1]/div/div/div/div[2]/h6/a/strong</value>
+      <webElementGuid>3b6e96c9-15ed-4c34-8ee5-04ec4a8204f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='fadein']/section[2]/div/div[2]/div/div/div/div/div/div[7]/div/div[2]/h6/a/strong</value>
+      <webElementGuid>841018c6-6d2f-45c4-b147-18f0aa982100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discount'])[7]/following::strong[1]</value>
+      <webElementGuid>86abb541-8621-454b-9a14-d73bc19bdc73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[6]/following::strong[2]</value>
+      <webElementGuid>59648ad4-9947-466c-8cff-05516e428990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[7]/preceding::strong[2]</value>
+      <webElementGuid>b31c4bf3-0722-44a0-8ca4-148615a4fff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hyatt Regency Perth']/parent::*</value>
+      <webElementGuid>f69ba7c9-b53c-46e4-86f9-8c1c0e83132d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/h6/a/strong</value>
+      <webElementGuid>894ee906-7ee7-422d-8322-a6bc0e0c706f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Hyatt Regency Perth' or . = 'Hyatt Regency Perth')]</value>
+      <webElementGuid>e4036b24-deec-4e77-83e7-80e827402498</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
