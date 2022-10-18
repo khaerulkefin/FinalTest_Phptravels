@@ -27,6 +27,34 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Verify/Verify City Name/Suggest_Message_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Verify/Verify Date/Checkin_Checkout",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//body[@id\u003d\u0027fadein\u0027]/section/div/div/div/div/div/div/div/div/p",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Verify/Verify Date/Checkin_Checkout_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Verify/Verify Travellers/Travellers",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//body[@id\u003d\u0027fadein\u0027]/section/div/div/div/div/div/div/div/div/p[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Verify/Verify Travellers/Travellers_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Verify/Verify Travellers/Travellers",
+      "brokenLocator": "//body[@id\u003d\u0027fadein\u0027]/section/div/div/div/div/div/div/div/div/p[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//p[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Verify/Verify Travellers/Travellers_position.png"
     }
   ]
 }

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menginputkan data travellers yang
+ valid</description>
+   <name>TC-TVL-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25857e0e-f39e-4398-8efd-915fcde7e7d2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd20b2e5-3e59-4e3b-bdfb-503b8e8ce27e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Dubai'</defaultValue>
+      <description></description>
+      <id>dd20b2e5-3e59-4e3b-bdfb-503b8e8ce27e</id>
+      <masked>false</masked>
+      <name>input_CityName</name>
+   </variable>
+</TestCaseEntity>

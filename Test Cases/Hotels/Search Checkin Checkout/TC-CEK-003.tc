@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menginputkan tanggal checkin 
+di hari sebelumnya</description>
+   <name>TC-CEK-003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>034fdca5-adb6-4482-b3fa-f5df96082fcd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2cd3102f-223d-4ad5-9b36-9cc5c9d81729</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>85b8a296-c23c-4b0a-9e2f-71c432c2006d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Dubai'</defaultValue>
+      <description></description>
+      <id>2cd3102f-223d-4ad5-9b36-9cc5c9d81729</id>
+      <masked>false</masked>
+      <name>input_CityName</name>
+   </variable>
+   <variable>
+      <defaultValue>'17-10-2022'</defaultValue>
+      <description></description>
+      <id>85b8a296-c23c-4b0a-9e2f-71c432c2006d</id>
+      <masked>false</masked>
+      <name>input_CheckinDate</name>
+   </variable>
+</TestCaseEntity>

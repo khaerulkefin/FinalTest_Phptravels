@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menginputkan tanggal checkin dan
+ checkout yang valid</description>
+   <name>TC-CEK-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bcfdc48-ddfe-48fc-9edf-9c98938d0f45</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa7136a0-5755-4cc5-8d2e-73ca5ae4e0ba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Dubai'</defaultValue>
+      <description></description>
+      <id>aa7136a0-5755-4cc5-8d2e-73ca5ae4e0ba</id>
+      <masked>false</masked>
+      <name>input_CityName</name>
+   </variable>
+</TestCaseEntity>

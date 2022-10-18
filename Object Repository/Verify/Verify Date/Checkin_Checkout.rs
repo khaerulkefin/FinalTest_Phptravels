@@ -6,6 +6,10 @@
    <elementGuidId>e5345960-0b03-4275-9638-dc08f4a9e15a</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//body[@id='fadein']/section/div/div/div/div/div/div/div/div/p</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//body[@id='fadein']/section/div/div/div/div/div/div/div/div/p</value>
       </entry>
@@ -22,23 +26,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>288e9d10-90d9-4726-bdc7-b62755e25d62</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>1 Nights ( 20-10-2022 - 21-10-2022 )</value>
-      <webElementGuid>a57bd6db-b573-4216-ab47-94d6c72ac79f</webElementGuid>
+      <webElementGuid>17e59737-7cf9-493e-a746-5e6f90de04fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 Nights ( 20-10-2022 - 21-10-2022 )</value>
+      <webElementGuid>cfc23fcb-f2cd-46cc-bbdd-97a6d7c0b0d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@id=&quot;fadein&quot;]/section[@class=&quot;breadcrumb-area bread-bg-7&quot;]/div[@class=&quot;breadcrumb-wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-lg-8&quot;]/div[@class=&quot;breadcrumb-content&quot;]/div[@class=&quot;section-heading&quot;]/div[@class=&quot;left-side-info rtl-align-right&quot;]/div[1]/p[1]</value>
-      <webElementGuid>a0bc19ab-e873-4eb2-beb7-e90b446abee7</webElementGuid>
+      <value>//body[@id='fadein']/section/div/div/div/div/div/div/div/div/p</value>
+      <webElementGuid>48906e9a-175f-4015-842f-f651f0cc3651</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='fadein']/section/div/div/div/div/div/div/div/div/p</value>
-      <webElementGuid>d2c65167-6a1a-4906-8c2e-c51a007c9e59</webElementGuid>
+      <webElementGuid>5fba4129-b2ec-4266-9d95-f380b1b3abeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Hotels in dubai'])[1]/following::p[1]</value>
-      <webElementGuid>5eab1c84-e329-468e-a89b-406c05d4eb5e</webElementGuid>
+      <webElementGuid>4f2a6c23-c0f3-479f-9ce8-e1eb5a6fe091</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Login'])[1]/following::p[1]</value>
-      <webElementGuid>09e80991-f151-49ff-8ab0-ea5d3c9638f2</webElementGuid>
+      <webElementGuid>be4b98ea-6c44-42ba-9b8d-15b546a7f0ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify Search'])[1]/preceding::p[2]</value>
-      <webElementGuid>e6b711e1-231a-49e7-9862-41e1f78a038b</webElementGuid>
+      <webElementGuid>ddb4d49d-3834-4377-84f9-5ba917e5e2fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='( 20-10-2022 - 21-10-2022 )']/parent::*</value>
-      <webElementGuid>0cf4dbe3-352c-4a66-b975-49ea136cb950</webElementGuid>
+      <webElementGuid>786b418c-d38d-4081-a139-1016f152a989</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>fc6f74de-c28b-4ec2-aba5-d1aa9c3b1c2e</webElementGuid>
+      <webElementGuid>d5fe8a7e-0f6e-40f0-8a6a-4b00b064a0a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = '1 Nights ( 20-10-2022 - 21-10-2022 )' or . = '1 Nights ( 20-10-2022 - 21-10-2022 )')]</value>
-      <webElementGuid>f8a5a334-ff06-45e7-bb08-764eb83ea13b</webElementGuid>
+      <webElementGuid>8fea91c0-3e5d-425b-a1f4-254bd2995a80</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

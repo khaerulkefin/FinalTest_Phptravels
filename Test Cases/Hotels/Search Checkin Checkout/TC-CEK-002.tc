@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menginputkan tanggal checkin
+ setelah tanggal checkout</description>
+   <name>TC-CEK-002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59eba28b-a2f9-4149-8574-31088f5b0660</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50baceb2-7d85-4d5e-b795-126abd60961a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17215ba0-4be1-4463-a867-5630383ec4a6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Dubai'</defaultValue>
+      <description></description>
+      <id>50baceb2-7d85-4d5e-b795-126abd60961a</id>
+      <masked>false</masked>
+      <name>input_CityName</name>
+   </variable>
+   <variable>
+      <defaultValue>'29-10-2022'</defaultValue>
+      <description></description>
+      <id>17215ba0-4be1-4463-a867-5630383ec4a6</id>
+      <masked>false</masked>
+      <name>input_CheckoutDate</name>
+   </variable>
+</TestCaseEntity>
